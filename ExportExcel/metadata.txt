@@ -1,0 +1,10 @@
+[general]
+name=Export Excel
+description=(EN) Export selected features to Excel with field ordering, aliases and presets - (IT) Esportazione features selezionati in Excel con selezione/ordinamento dei campi con alias e preselezione
+version=1.0.0
+qgisMinimumVersion=3.34
+author=Maurizio Begani
+email=maurizio.begani.qgis@gmail.com
+icon=icon.png
+experimental=False
+deprecated=False
